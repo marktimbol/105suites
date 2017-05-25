@@ -1,0 +1,75 @@
+.Card {
+    border: 1px solid #ddd;
+	position: relative;
+
+	// display: flex;
+	// flex-direction: column;
+	// align-items: center;
+	// justify-content: center; 
+}
+
+.Card__content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+	width: 100%;
+	padding: 20px;
+	height: 90px;
+	
+	left: 0;
+	top: 50%;
+	position: absolute; // This cause the problem in safari. But I need it anyway :D
+	transform: translateY(-50%);
+
+	background: rgba(0,160,147,0.7);
+	transition: all .5s ease;
+}
+
+.Card__title {
+	margin: 0;
+	text-align: center;
+	a {
+		color: #fff !important;
+		font-size: 20px;
+		font-family: $montserrat;
+		text-transform: uppercase;
+		&:hover {
+			color: #fff;
+		}
+	}
+
+	span {
+		display: block;
+		text-transform: lowercase;		
+	}
+}
+
+.Card__info {
+	display: none;
+
+	ul {
+	    list-style: none;
+	    text-align: center;
+	    padding-left: 0;
+	    margin-top: 10px;
+	    li {
+	    	color: #fff;
+	    }	
+	}
+}
+
+.Suites__flexslider {
+	li {
+		&:hover {
+			.Card__content {
+				height: 100%;
+			}
+
+			.Card__info {
+				display: block;
+			}
+		}
+	}
+}

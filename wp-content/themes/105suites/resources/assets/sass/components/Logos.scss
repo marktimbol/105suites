@@ -1,0 +1,31 @@
+.Logos__container {
+	display: flex;
+	list-style: none;
+	align-items: center;
+	margin-top: 30px !important;
+	li {
+		margin-right: 15px;
+	}
+}
+
+.logos {
+	background-image: url('https://www.105suites.com/wp-content/uploads/2017/03/logos.png') !important;
+}
+
+.airbnb-logo {
+	width: 75px;
+	height: 24px;
+	background-position: -2px -2px;
+}
+
+.booking-logo {
+	width: 99px;
+	height: 16px;
+	background-position: -81px -6px;
+}
+
+.expedia-logo {
+	width: 81px;
+	height: 23px;
+	background-position: -184px -3px;
+}

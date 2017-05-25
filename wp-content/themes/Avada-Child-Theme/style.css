@@ -1,0 +1,18 @@
+/*
+Theme Name: Avada Child
+Description: Child theme for Avada theme
+Author: ThemeFusion
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+
+/* 
+$primary: #2d8aa1
+$secondary: #4c9baf;
+*/
+
+#side-header .fusion-main-menu>ul>li {
+	background: #4c9baf;
+}

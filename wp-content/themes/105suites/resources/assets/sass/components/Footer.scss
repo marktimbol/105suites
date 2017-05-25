@@ -1,0 +1,73 @@
+footer {
+	.widget-title {
+		color: #fff !important;
+		font-size: 20px !important;
+		font-weight: normal !important;
+		font-family: $montserrat !important;
+		text-transform: uppercase !important;
+		&::after {
+			content: "";
+		    width: 40%;
+		    display: block;
+		    margin-top: 10px;
+		    border: 1px solid #bf9b61;
+		}
+	}
+
+	.fusion-social-networks {
+		display: block !important;
+	}
+
+	.wpcf7-form-control {
+	    border: 0 !important;
+	    color: #fff !important;
+	    padding-left: 0px !important;
+	    background: transparent !important;
+	    border-bottom: 2px solid #fff !important;
+
+	    &:focus, &:active {
+	    	outline: 0 !important;
+	    }
+	}
+
+	.wpcf7-submit {
+		width: 50% !important;
+		border-width: 1px !important;
+		border-radius: 3px !important;
+		border: 1px solid #fff !important;
+		background: #666666 !important;
+		padding-left: 30px !important;
+	}
+
+	input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+		color: #fff !important;
+		text-transform: uppercase;
+	}
+	 
+	input:-moz-placeholder, textarea:-moz-placeholder { /* Firefox 18- */
+		color: #fff !important;
+		text-transform: uppercase;
+	}
+	 
+	input::-moz-placeholder, textarea::-moz-placeholder {  /* Firefox 19+ */
+		color: #fff !important;
+		text-transform: uppercase;
+	}
+	 
+	input:-ms-input-placeholder, textarea:-ms-input-placeholder {  
+		color: #fff !important;
+		text-transform: uppercase;
+	}	  	
+}
+
+#toTop:hover, #wrapper .search-table .search-button input[type="submit"]:hover, 
+.circle-yes ul li:before, 
+.fusion-accordian .panel-title .active .fa-fusion-box, 
+.fusion-date-and-formats .fusion-date-box, 
+.pagination .current, .progress-bar-content, 
+.table-2 table thead, 
+.tagcloud a:hover, 
+ul.arrow li:before, 
+ul.circle-yes li:before {
+	background-color: $primary !important;
+}

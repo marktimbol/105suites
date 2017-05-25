@@ -1,0 +1,53 @@
+.Suites__container {
+    // display: flex;
+    // flex-direction: column;
+    // align-items: center;
+    // justify-content: center;
+    position: relative;
+
+    .suites-navigation {
+		width: 100%;
+		
+		top: 50%;
+		position: absolute;
+		transform: translateY(-50%);
+
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+
+		i {
+			font-size: 30px;
+			color: $primary;
+		}
+
+		.flex-prev {
+			position: relative;
+			left: -35px;
+		}
+
+		.flex-next {
+			position: relative;
+			right: -35px;
+		}
+    }
+}
+
+.Suites__flexslider {
+    flex: 1;
+    width: 100%;
+	.flex-control-nav {
+		bottom: -60px;
+	}
+	.slide {
+		width: 210px;
+	}
+}
+
+.Services__container {
+	.suites-navigation {
+		i {
+			color: #fff !important;
+		}
+	}
+}

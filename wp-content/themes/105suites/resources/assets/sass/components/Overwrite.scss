@@ -1,0 +1,157 @@
+// Our Restaurant section
+
+.fusion-copyright-notice {
+	text-transform: uppercase;
+	font-family: $montserrat !important;
+}
+
+// Hide footer social links
+.fusion-social-links-footer {
+	display: none !important;
+}
+
+// Subpages
+
+.fusion-page-title-bar {
+	position: relative;
+	border: 0px !important;
+	padding: 0px !important;
+}
+
+.fusion-page-title-bar:before {
+	content: "";
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	background: rgba(0,0,0,0.4);
+}
+
+.fusion-page-title-row {
+	padding: 0 40px;
+}
+
+.fusion-page-title-wrapper {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;		
+	
+	.entry-title {
+	    font-size: 36px;		
+	    font-family: $montserrat;
+		text-transform: uppercase;
+	}
+	
+	.fusion-page-title-secondary {
+		text-align: left !important;
+	}
+
+	.fusion-breadcrumbs {
+		a {
+			color: #fff !important;
+		}
+		span {
+			color: #fff !important;
+			font-family: $montserrat;
+			text-transform: uppercase;
+		}
+	}
+}
+
+.fusion-page-title-captions {
+	width: 100% !important;
+}
+
+// Restaurant page
+.LaCantine__Restaurants {
+	.content-box-column	{
+		border: 0 !important;
+	}
+}
+
+.fusion-date-box {
+	background-color: $primary !important;
+}
+
+.fusion-rollover {
+	background-image: -webkit-linear-gradient(top, rgba(0,160,147,1) 50%, #00a093 100%) !important;	
+}
+
+.single-avada_portfolio {
+
+	.side-header-background {
+		background-color: $primary !important;
+	}
+
+	.fusion-page-title-row {
+		padding: 0px 15px !important;
+	}
+	
+	.fusion-page-title-bar:before {
+		background: rgba(0,160,147,1) !important;
+	}
+
+	.fusion-page-title-bar {
+		h1 {
+			color: #fff;
+		}
+	}
+
+	.fusion-page-title-wrapper {
+		.entry-title {
+			text-shadow: none !important;
+		}
+
+		.fusion-breadcrumbs {
+			a {
+				color: #fff !important;
+			}
+			span {
+				color: #fff !important;
+				text-shadow: none !important;
+			}
+		}		
+	}
+
+	.flexslider {
+		.flex-direction-nav a:before {
+			content: "" !important;
+		}
+
+		.flex-direction-nav .flex-next {
+			text-align: center !important;
+		}		
+	}	
+}
+
+.flexslider {
+	border: 0 !important;
+	border-radius: 0px !important;
+}
+
+.project-content {
+	.flexslider {
+		margin-bottom: 0px !important;
+	}
+}
+
+.tfs-slider {
+	.slide-content-container {
+		.heading {
+			padding: 10px;
+			background: rgba(45,128,161,0.8);
+		}
+	}
+}
+
+.modal {
+	z-index: 4000 !important;
+}
+
+#toTop {
+	bottom: 60px !important;
+}
+
+#wrapper .post-content blockquote {
+	border-color: $primary !important;
+}

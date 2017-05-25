@@ -1,0 +1,118 @@
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type="text/javascript".
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl"
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] its not src=, flushing
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type="text/javascript".
+            function w3tc_popupadmin_bar(url) {
+                return window.open(url, '', 'width=800,height=600,stat
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] its not src=, flushing
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='http://staging.belpro.net/105suite/wp-includes/js/jquery/jquery.js?ver=1.12.4'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-includes/js/jquery/jquery.js path /home/stagingbelpro/public_html/105suite/wp-includes/js/jquery/jquery.js
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='http://staging.belpro.net/105suite/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-includes/js/jquery/jquery-migrate.min.js path /home/stagingbelpro/public_html/105suite/wp-includes/js/jquery/jquery-migrate.min.js
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.min.js?ver=3.0.0'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: its url //cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.min.js?ver=3.0.0
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] file //cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.min.js?ver=3.0.0 didnt pass minification check: file_for_min: false ignore_js_files: true
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='http://staging.belpro.net/105suite/wp-content/plugins/mybookings-light/public/js/lightslider.min.js?ver=1.1.5'../s
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/plugins/mybookings-light/public/js/lightslider.min.js path /home/stagingbelpro/public_html/105suite/wp-content/plugins/mybookings-light/public/js/lightslider.min.js
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript'.
+/* .![CDATA[ */
+var cb_hm_front_ajaxobj = {"url":"http:\/\/staging.belpro.net\/105suite\/wp-admin\/admin-ajax.php","na
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] its not src=, flushing
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='http://staging.belpro.net/105suite/wp-content/plugins/mybookings-light/public/js/api/cloudbeds-hotel-management-ap
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/plugins/mybookings-light/public/js/api/cloudbeds-hotel-management-api.js path /home/stagingbelpro/public_html/105suite/wp-content/plugins/mybookings-light/public/js/api/cloudbeds-hotel-management-api.js
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript'.
+/* .![CDATA[ */
+var toTopscreenReaderText = {"label":"Go to Top"};
+var avadaVars = {"admin_ajax":"http:\/\/staging.bel
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] its not src=, flushing
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='http://staging.belpro.net/105suite/wp-content/themes/Avada/assets/js/main.min.js?ver=5.0.2' async ../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/themes/Avada/assets/js/main.min.js path /home/stagingbelpro/public_html/105suite/wp-content/themes/Avada/assets/js/main.min.js
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='http://staging.belpro.net/105suite/wp-content/themes/105suites/dist/js/app.js?ver=4.7.3'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/themes/105suites/dist/js/app.js path /home/stagingbelpro/public_html/105suite/wp-content/themes/105suites/dist/js/app.js
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type="text/javascript".
+		var doc = document.documentElement;
+		doc.setAttribute('data-useragent', navigator.userAgent);
+	./script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] its not src=, flushing
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag ./head.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] its not src=, flushing
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script.document.write(new Date().getFullYear());./script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] its not src=, flushing
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='http://staging.belpro.net/105suite/wp-includes/js/admin-bar.min.js?ver=4.7.3'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-includes/js/admin-bar.min.js path /home/stagingbelpro/public_html/105suite/wp-includes/js/admin-bar.min.js
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='http://staging.belpro.net/105suite/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-201
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js path /home/stagingbelpro/public_html/105suite/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript'.
+/* .![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] its not src=, flushing
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='http://staging.belpro.net/105suite/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/plugins/contact-form-7/includes/js/scripts.js path /home/stagingbelpro/public_html/105suite/wp-content/plugins/contact-form-7/includes/js/scripts.js
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js?ver=3.51'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: its url //cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js?ver=3.51
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] file //cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js?ver=3.51 didnt pass minification check: file_for_min: false ignore_js_files: true
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.9.0/jquery.validate.min.js?ver=1.9.0'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: its url //cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.9.0/jquery.validate.min.js?ver=1.9.0
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] file //cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.9.0/jquery.validate.min.js?ver=1.9.0 didnt pass minification check: file_for_min: false ignore_js_files: true
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='http://staging.belpro.net/105suite/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-includes/js/jquery/ui/core.min.js path /home/stagingbelpro/public_html/105suite/wp-includes/js/jquery/ui/core.min.js
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='http://staging.belpro.net/105suite/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-includes/js/jquery/ui/datepicker.min.js path /home/stagingbelpro/public_html/105suite/wp-includes/js/jquery/ui/datepicker.min.js
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript'.
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","mont
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] its not src=, flushing
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/0.9.9/jquery.magnific-popup.min.js?ver=0.9.9'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: its url //cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/0.9.9/jquery.magnific-popup.min.js?ver=0.9.9
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] file //cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/0.9.9/jquery.magnific-popup.min.js?ver=0.9.9 didnt pass minification check: file_for_min: false ignore_js_files: true
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='http://staging.belpro.net/105suite/wp-content/plugins/mybookings-light/public/js/print.js?ver=0.9.616'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/plugins/mybookings-light/public/js/print.js path /home/stagingbelpro/public_html/105suite/wp-content/plugins/mybookings-light/public/js/print.js
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/selectize.js/0.8.5/js/standalone/selectize.min.js?ver=0.8.5'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: its url //cdnjs.cloudflare.com/ajax/libs/selectize.js/0.8.5/js/standalone/selectize.min.js?ver=0.8.5
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] file //cdnjs.cloudflare.com/ajax/libs/selectize.js/0.8.5/js/standalone/selectize.min.js?ver=0.8.5 didnt pass minification check: file_for_min: false ignore_js_files: true
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/qtip2/2.2.1/jquery.qtip.min.js?ver=2.2.1'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: its url //cdnjs.cloudflare.com/ajax/libs/qtip2/2.2.1/jquery.qtip.min.js?ver=2.2.1
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] file //cdnjs.cloudflare.com/ajax/libs/qtip2/2.2.1/jquery.qtip.min.js?ver=2.2.1 didnt pass minification check: file_for_min: false ignore_js_files: true
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='http://staging.belpro.net/105suite/wp-includes/js/comment-reply.min.js?ver=4.7.3'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-includes/js/comment-reply.min.js path /home/stagingbelpro/public_html/105suite/wp-includes/js/comment-reply.min.js
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type='text/javascript' src='http://staging.belpro.net/105suite/wp-includes/js/wp-embed.min.js?ver=4.7.3'../script.
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-includes/js/wp-embed.min.js path /home/stagingbelpro/public_html/105suite/wp-includes/js/wp-embed.min.js
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] processing tag .script type="text/javascript".
+			(function() {
+				var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] its not src=, flushing
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding http://staging.belpro.net/105suite/wp-includes/css/dashicons.min.css?ver=4.7.3
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-includes/css/dashicons.min.css path /home/stagingbelpro/public_html/105suite/wp-includes/css/dashicons.min.css
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding http://staging.belpro.net/105suite/wp-includes/css/admin-bar.min.css?ver=4.7.3
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-includes/css/admin-bar.min.css path /home/stagingbelpro/public_html/105suite/wp-includes/css/admin-bar.min.css
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding http://staging.belpro.net/105suite/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/plugins/contact-form-7/includes/css/styles.css path /home/stagingbelpro/public_html/105suite/wp-content/plugins/contact-form-7/includes/css/styles.css
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding //cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css?ver=4.7.3
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: its url //cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css?ver=4.7.3
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding //fonts.googleapis.com/css?family=Roboto%3A400%2C100%2C100italic%2C300%2C300italic%2C500%2C400italic%2C500italic%2C700%2C700italic%2C900%2C900italic%7CRoboto+Slab%3A400%2C100%2C700%2C300&#038;ver=4.7.3
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: unknown extension .com/css for //fonts.googleapis.com/css?family=Roboto%3A400%2C100%2C100italic%2C300%2C300italic%2C500%2C400italic%2C500italic%2C700%2C700italic%2C900%2C900italic%7CRoboto+Slab%3A400%2C100%2C700%2C300&#038;ver=4.7.3
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding //cdnjs.cloudflare.com/ajax/libs/selectize.js/0.8.5/css/selectize.css?ver=4.7.3
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: its url //cdnjs.cloudflare.com/ajax/libs/selectize.js/0.8.5/css/selectize.css?ver=4.7.3
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding //cdnjs.cloudflare.com/ajax/libs/qtip2/2.2.0/basic/jquery.qtip.min.css?ver=4.7.3
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: its url //cdnjs.cloudflare.com/ajax/libs/qtip2/2.2.0/basic/jquery.qtip.min.css?ver=4.7.3
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding //cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/0.9.9/magnific-popup.css?ver=4.7.3
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: its url //cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/0.9.9/magnific-popup.css?ver=4.7.3
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding http://staging.belpro.net/105suite/wp-content/plugins/mybookings-light/public/css/cloudbeds-hotel-management-public.css?ver=1370200269
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/plugins/mybookings-light/public/css/cloudbeds-hotel-management-public.css path /home/stagingbelpro/public_html/105suite/wp-content/plugins/mybookings-light/public/css/cloudbeds-hotel-management-public.css
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding http://staging.belpro.net/105suite/wp-content/themes/Avada/assets/css/style.min.css?ver=5.0.2
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/themes/Avada/assets/css/style.min.css path /home/stagingbelpro/public_html/105suite/wp-content/themes/Avada/assets/css/style.min.css
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding http://staging.belpro.net/105suite/wp-content/themes/105suites/style.css?ver=4.7.3
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/themes/105suites/style.css path /home/stagingbelpro/public_html/105suite/wp-content/themes/105suites/style.css
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding http://staging.belpro.net/105suite/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css?ver=5.0.2
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css path /home/stagingbelpro/public_html/105suite/wp-content/themes/Avada/assets/fonts/fontawesome/font-awesome.css
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding http://staging.belpro.net/105suite/wp-content/themes/Avada/ilightbox.css?ver=5.0.2
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/themes/Avada/ilightbox.css path /home/stagingbelpro/public_html/105suite/wp-content/themes/Avada/ilightbox.css
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding http://staging.belpro.net/105suite/wp-content/themes/Avada/animations.css?ver=5.0.2
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/themes/Avada/animations.css path /home/stagingbelpro/public_html/105suite/wp-content/themes/Avada/animations.css
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding http://staging.belpro.net/105suite/wp-content/plugins/fusion-builder/css/fusion-shortcodes.min.css?ver=1.0.2
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/plugins/fusion-builder/css/fusion-shortcodes.min.css path /home/stagingbelpro/public_html/105suite/wp-content/plugins/fusion-builder/css/fusion-shortcodes.min.css
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding //staging.belpro.net/105suite/wp-content/uploads/avada-styles/avada-10868.css?timestamp=1490451360&#038;ver=5.0.2
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: true for file 105suite/wp-content/uploads/avada-styles/avada-10868.css path /home/stagingbelpro/public_html/105suite/wp-content/uploads/avada-styles/avada-10868.css
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] adding https://fonts.googleapis.com/css?family=Raleway%3A400%7CLato%3A400%7CPT+Sans%3A700&#038;subset
+[Sun, 26 Mar 2017 06:02:00 +0000] [/105suite/] [-] is_file_for_minification: unknown extension .com/css for https://fonts.googleapis.com/css?family=Raleway%3A400%7CLato%3A400%7CPT+Sans%3A700&#038;subset
+[Sun, 26 Mar 2017 06:02:16 +0000] [/105suite/wp-admin/admin.php?page=w3tc_general] [http://staging.belpro.net/105suite/wp-admin/admin.php?page=w3tc_general&w3tc_message=58d7594db6cf8] Minify flush called from
+[Sun, 26 Mar 2017 06:02:16 +0000] [/105suite/wp-admin/admin.php?page=w3tc_general] [http://staging.belpro.net/105suite/wp-admin/admin.php?page=w3tc_general&w3tc_message=58d7594db6cf8] [{"file":"\/home\/stagingbelpro\/public_html\/105suite\/wp-content\/plugins\/w3-total-cache\/CacheFlush_Locally.php","line":77,"function":"flush","class":"W3TC\\Minify_MinifiedFileRequestHandler","object":{"_config":{},"_error_occurred":false},"type":"-.","args":[]},{"file":"\/home\/stagingbelpro\/public_html\/105suite\/wp-content\/plugins\/w3-total-cache\/CacheFlush.php","line":55,"function":"minifycache_flush","class":"W3TC\\CacheFlush_Locally","object":{},"type":"-.","args":[]},{"file":"\/home\/stagingbelpro\/public_html\/105suite\/wp-content\/plugins\/w3-total-cache\/w3-total-cache-api.php","line":301,"function":"minifycache_flush","class":"W3TC\\CacheFlush","object":{"_executor":{}},"type":"-.","args":[]},{"file":"\/home\/stagingbelpro\/public_html\/105suite\/wp-content\/plugins\/w3-total-cache\/Util_Admin.php","line":591,"function":"w3tc_minify_flush","args":[]},{"file":"\/home\/stagingbelpro\/public_html\/105suite\/wp-content\/plugins\/w3-total-cache\/Generic_AdminActions_Default.php","line":613,"function":"config_save","class":"W3TC\\Util_Admin","type":"::","args":[{},{}]},{"file":"\/home\/stagingbelpro\/public_html\/105suite\/wp-content\/plugins\/w3-total-cache\/Generic_AdminActions_Default.php","line":159,"function":"_w3tc_save_options_process","class":"W3TC\\Generic_AdminActions_Default","object":{},"type":"-.","args":[]},{"file":"\/home\/stagingbelpro\/public_html\/105suite\/wp-content\/plugins\/w3-total-cache\/Root_AdminActions.php","line":25,"function":"w3tc_save_options","class":"W3TC\\Generic_AdminActions_Default","object":{},"type":"-.","args":[]},{"file":"\/home\/stagingbelpro\/public_html\/105suite\/wp-content\/plugins\/w3-total-cache\/Generic_Plugin_Admin.php","line":159,"function":"execute","class":"W3TC\\Root_AdminActions","object":{},"type":"-.","args":["w3tc_save_options"]},{"function":"load","class":"W3TC\\Generic_Plugin_Admin","object":{},"type":"-.","args":[""]},{"file":"\/home\/stagingbelpro\/public_html\/105suite\/wp-includes\/class-wp-hook.php","line":298,"function":"call_user_func_array","args":[[{},"load"],[""]]},{"file":"\/home\/stagingbelpro\/public_html\/105suite\/wp-includes\/class-wp-hook.php","line":323,"function":"apply_filters","class":"WP_Hook","object":{"callbacks":{"10":{"000000005c40a555000000001794dc73load":{"function":[{},"load"],"accepted_args":1}}}},"type":"-.","args":["",[""]]},{"file":"\/home\/stagingbelpro\/public_html\/105suite\/wp-includes\/plugin.php","line":453,"function":"do_action","class":"WP_Hook","object":{"callbacks":{"10":{"000000005c40a555000000001794dc73load":{"function":[{},"load"],"accepted_args":1}}}},"type":"-.","args":[[""]]},{"file":"\/home\/stagingbelpro\/public_html\/105suite\/wp-admin\/admin.php","line":212,"function":"do_action","args":["load-performance_page_w3tc_general"]}]

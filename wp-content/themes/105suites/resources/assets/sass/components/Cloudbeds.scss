@@ -1,0 +1,56 @@
+.cloudbeds_container {
+	.search_panel {
+		.omgrid_3 {
+			display: none;
+		}
+		.omgrid_9 {
+			width: 100%;
+		}
+	}	
+
+	/* Remove Children Column */
+
+	table.rooms {
+		th.kids {
+			display: none;
+		}
+		td[title='Kids'] {
+			display: none;
+		}
+	}
+	.room_types .children, .kids_block, .roomtype .col_kids, .total_child, .nb_kids, .book_child {
+		visibility: hidden !important;
+	}
+	.choose_room .room_types .custom-children {
+		visibility: hidden !important;
+	}
+	.tarife.kids_tarife {
+		display: none !important;
+	}	
+}
+
+.cb_hm_frontend .ui-widget-header {
+	background: $primary !important;
+	border-color: $primary;
+}
+
+.cb_hm_frontend .cb_hm_progress a.active {
+	background: $primary !important;
+}
+
+.cb_hm_frontend .cb_hm_progress a.active:after {
+	background: $primary !important;
+	box-shadow: none !important;
+}
+
+.cb_hm_frontend .cb_hm_progress a.done:after {
+	box-shadow: none !important;
+}
+
+.cb_hm_frontend #roomsavailability #selected_reservation_form .reservation_block h2 {
+	color: $primary !important;
+}
+
+.cb_hm_frontend #roomsavailability #selected_reservation_form .reservation_block h2:after {
+	background: $primary !important;
+}

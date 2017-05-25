@@ -1,0 +1,29 @@
+.fusion-main-menu {
+	.menu-item {
+		background: $primary;
+		transition: all 0.2s ease;
+
+		a {
+			display: block;
+			font-size: 18px;
+			transition: all 0.2s ease;
+			font-family: Arial, 'sans-serif' !important;
+		}
+
+		&:hover {
+			background: #fff;
+			a {
+				color: $secondary;
+				text-decoration: none;
+			}
+		}
+
+		&.current-menu-item {
+			background: #fff;
+			a {
+				color: $secondary !important;
+				border-right-width: 0 !important;
+			}
+		}
+	}
+}

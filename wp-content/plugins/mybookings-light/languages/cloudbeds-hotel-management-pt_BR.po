@@ -1,0 +1,423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-04-13 11:34+0600\n"
+"PO-Revision-Date: 2015-10-22 19:25+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-cloudbeds-hotel-management-public.php:320
+msgid "Available Room Options"
+msgstr "Não há quartos disponíveis"
+
+#: class-cloudbeds-hotel-management-public.php:321
+msgid "Room Types"
+msgstr "Tipos de quartos"
+
+#: class-cloudbeds-hotel-management-public.php:322
+msgid "Max"
+msgstr "Max"
+
+#: class-cloudbeds-hotel-management-public.php:323
+#: class-cloudbeds-hotel-management-public.php:433
+msgid "Rate"
+msgstr "Avaliação"
+
+#: class-cloudbeds-hotel-management-public.php:324
+#: class-cloudbeds-hotel-management-public.php:435
+msgid "Night(s)"
+msgstr "Night (s)"
+
+#: class-cloudbeds-hotel-management-public.php:325
+msgid "Adults"
+msgstr "Adultos"
+
+#: class-cloudbeds-hotel-management-public.php:326
+msgid "Kids"
+msgstr "Crianças"
+
+#: class-cloudbeds-hotel-management-public.php:327
+msgid "NO. Rooms"
+msgstr "NO. quartos"
+
+#: class-cloudbeds-hotel-management-public.php:425
+msgid "Booking Information"
+msgstr "Informações da Reserva"
+
+#: class-cloudbeds-hotel-management-public.php:426
+msgid "Your Stay"
+msgstr "Sua estadia"
+
+#: class-cloudbeds-hotel-management-public.php:427
+msgid "Arriving"
+msgstr "Chegando"
+
+#: class-cloudbeds-hotel-management-public.php:428
+msgid "Departing"
+msgstr "Partindo"
+
+#: class-cloudbeds-hotel-management-public.php:429
+#: class-cloudbeds-hotel-management-public.php:430
+msgid "Nights"
+msgstr "Noites"
+
+#: class-cloudbeds-hotel-management-public.php:431
+msgid "Your chosen apartments"
+msgstr "Os seus apartamentos escolhidos"
+
+#: class-cloudbeds-hotel-management-public.php:432
+msgid "Apartment"
+msgstr "Apartamento"
+
+#: class-cloudbeds-hotel-management-public.php:434
+msgid "Qty"
+msgstr "Qtde"
+
+#: class-cloudbeds-hotel-management-public.php:436
+msgid "Price"
+msgstr "Preço"
+
+#: class-cloudbeds-hotel-management-public.php:437
+msgid "Costs"
+msgstr "Custos"
+
+#: class-cloudbeds-hotel-management-public.php:438
+msgid "Sub-total"
+msgstr "Sub-total"
+
+#: class-cloudbeds-hotel-management-public.php:439
+msgid "VAT"
+msgstr "IVA"
+
+#: class-cloudbeds-hotel-management-public.php:440
+msgid "Total Price"
+msgstr "Preço Total"
+
+#: class-cloudbeds-hotel-management-public.php:441
+msgid "Continue your booking"
+msgstr "Continue a sua reserva"
+
+#: class-cloudbeds-hotel-management-public.php:442
+msgid "Existing User Login"
+msgstr "Existente Login do usuário"
+
+#: class-cloudbeds-hotel-management-public.php:443
+msgid "Register New Acccount"
+msgstr "Registre Nova Conta"
+
+#: class-cloudbeds-hotel-management-public.php:444
+msgid "Your name"
+msgstr "Seu nome"
+
+#: class-cloudbeds-hotel-management-public.php:445
+msgid "First name"
+msgstr "Primeiro nome"
+
+#: class-cloudbeds-hotel-management-public.php:446
+msgid "Last name"
+msgstr "Sobrenome"
+
+#: class-cloudbeds-hotel-management-public.php:447
+msgid "Guests Info"
+msgstr "Os hóspedes Informações"
+
+#: class-cloudbeds-hotel-management-public.php:448
+msgid "Your address"
+msgstr "Seu endereço"
+
+#: class-cloudbeds-hotel-management-public.php:449
+msgid "Contact details"
+msgstr "Detalhes do contato"
+
+#: partials/search.php:21
+msgid "Check-in"
+msgstr "Entrada"
+
+#: partials/search.php:27
+msgid "Check-out"
+msgstr "Confira"
+
+#: partials/search.php:33
+msgid "Search"
+msgstr "Pesquisa"
+
+#: partials/propertydetails.php:92
+msgid "SEARCH"
+msgstr "PESQUISA"
+
+#: partials/roomavailable.php:284
+msgid "Choose and Accommodation"
+msgstr "Escolha o País"
+
+#: partials/roomavailable.php:287
+msgid "Checkout"
+msgstr "Fechar Compra"
+
+#: partials/roomavailable.php:330
+msgid "BOOK NOW"
+msgstr "LIVRO AGORA"
+
+#: partials/roomavailable.php:332
+msgid "Confirmation is immediate"
+msgstr "A confirmação é imediato"
+
+#: partials/roomavailable.php:333
+msgid "Not Included [%] Tax"
+msgstr "Não Incluído [%] Tax"
+
+#: partials/roomavailable.php:333
+msgid "Tax"
+msgstr "Taxa"
+
+#: partials/roomavailable.php:333
+msgid "Hotel Fees"
+msgstr "Taxas do Hotel"
+
+#: partials/roomavailable.php:336
+msgid "Enter Promo Code"
+msgstr "Digite o Código Promo"
+
+#: partials/roomavailable.php:337
+msgid "Code"
+msgstr "Código"
+
+#: partials/roomavailable.php:338
+msgid "Submit"
+msgstr "Enviar"
+
+#: partials/roomavailable.php:354
+msgid "Your Reservation"
+msgstr "Sua Reserva"
+
+#: partials/roomavailable.php:358
+msgid "Room Selections"
+msgstr "Seleções do quarto"
+
+#: partials/roomavailable.php:359
+msgid "Arrival Date"
+msgstr "Data de chegada"
+
+#: partials/roomavailable.php:364
+msgid "Departure Date"
+msgstr "Data de partida"
+
+#: partials/roomavailable.php:369
+msgid "Room Nights"
+msgstr "Dormidas"
+
+#: partials/roomavailable.php:374
+msgid "Room Total"
+msgstr "Quarto total"
+
+#: partials/roomavailable.php:380
+msgid "Advance amount"
+msgstr "Montante do adiantamento"
+
+#: partials/roomavailable.php:381
+msgid "Amount paid at check-in"
+msgstr "Valor pago no check-in"
+
+#: partials/roomavailable.php:381
+msgid "Grand Total"
+msgstr "Total geral"
+
+#: partials/roomavailable.php:395
+msgid "Contact and Billing Information"
+msgstr "Contato e informações de faturamento"
+
+#: partials/roomavailable.php:432
+msgid "Country"
+msgstr "País"
+
+#: partials/roomavailable.php:438
+msgid "Choose Country"
+msgstr "Escolha o País"
+
+#: partials/roomavailable.php:451
+msgid "Continue checking out as a guest by filling in the required fields below"
+msgstr "Continue verificando como convidado, preenchendo os campos obrigatórios abaixo"
+
+#: partials/roomavailable.php:455
+msgid "First Name"
+msgstr "Primeiro nome"
+
+#: partials/roomavailable.php:460
+msgid "Last Name"
+msgstr "Sobrenome"
+
+#: partials/roomavailable.php:465 partials/roomavailable.php:472
+msgid "Phone"
+msgstr "Telefone"
+
+#: partials/roomavailable.php:484
+msgid "Address"
+msgstr "Endereço"
+
+#: partials/roomavailable.php:488
+msgid "City"
+msgstr "Cidade"
+
+#: partials/roomavailable.php:493
+msgid "Postal Code"
+msgstr "Código postal"
+
+#: partials/roomavailable.php:501
+msgid "How did you hear about us"
+msgstr "Como você ficou sabendo sobre nós"
+
+#: partials/roomavailable.php
+msgid "Select an option"
+msgstr "Selecione uma opção"
+
+#: partials/roomavailable.php
+msgid "Online Travel Agent"
+msgstr "Agente de viagens on-line"
+
+#: partials/roomavailable.php
+msgid "Travel Agent"
+msgstr "Agente de viagens"
+
+#: partials/roomavailable.php
+msgid "Friends"
+msgstr "Amigos"
+
+#: partials/roomavailable.php
+msgid "Hotel Website"
+msgstr "Site do Hotel"
+
+#: partials/roomavailable.php
+msgid "Online Recomendation"
+msgstr "Recomendação on-line"
+
+#: partials/roomavailable.php
+msgid "How"
+msgstr "Como"
+
+#: partials/roomavailable.php
+msgid "Name of Cardholder"
+msgstr "Nome do titular do cartão"
+
+#: partials/roomavailable.php
+msgid "Credit Card No."
+msgstr "Cartão de Crédito No."
+
+#: partials/roomavailable.php
+msgid "Expiration Date"
+msgstr "Data de validade"
+
+#: partials/roomavailable.php
+msgid "Security Code / CVV"
+msgstr "Código de Segurança / CVV"
+
+#: partials/roomavailable.php
+msgid "Is this your first time at this hotel"
+msgstr "É a sua primeira vez no hotel"
+
+#: partials/roomavailable.php
+msgid "Special Requests"
+msgstr "Pedidos Especiais"
+
+#: partials/roomavailable.php
+msgid "I agree with"
+msgstr "Eu concordo com"
+
+#: partials/roomavailable.php
+msgid "the terms and conditions of"
+msgstr "os termos e condições do"
+
+#: partials/roomavailable.php
+msgid "Secure Online Payment"
+msgstr "Pagamento Seguro Online"
+
+#: partials/roomavailable.php
+msgid "Learn More"
+msgstr "Aprender mais"
+
+#: partials/roomavailable.php
+msgid "Complete Your Reservation"
+msgstr "Completar a sua reserva"
+
+#: partials/propertydetails.php
+msgid "Property Information"
+msgstr "Informações sobre propriedade"
+
+#: partials/propertydetails.php
+msgid "Hotel Amenities"
+msgstr "Serviços do Hotel"
+
+#: partials/propertydetails.php
+msgid "Check-In / Check-Out Policies"
+msgstr "Check-in / check-out Políticas"
+
+#: partials/propertydetails.php
+msgid "This property has the following check-in and check-out times and policies"
+msgstr "Esta propriedade tem o seguinte check-in e check-out vezes e políticas"
+
+#: partials/propertydetails.php
+msgid "Late Check-Out Hour"
+msgstr "Late Check-out horas"
+
+#: partials/propertydetails.php
+msgid "Late Check-Out Fee"
+msgstr "Taxa tarde Check-out"
+
+#: partials/propertydetails.php
+msgid "Hotel and Cancellation Policies"
+msgstr "Hotel e Políticas de cancelamento"
+
+#: partials/propertydetails.php
+msgid "Terms and Conditions"
+msgstr "Termos e Condições"
+
+#: partials/propertydetails.php
+msgid "Tax Percent"
+msgstr "Por cento de imposto"
+
+#: partials/propertydetails.php
+msgid "Deposit Type"
+msgstr "Tipo de Depósito"
+
+#: partials/propertydetails.php
+msgid "Deposit Percent"
+msgstr "Depósito Percent"
+
+#: partials/propertydetails.php
+msgid "Deposit Fixed"
+msgstr "Depósito Fixo"
+
+#: partials/propertydetails.php
+msgid "This hotel is not currently accepting reservations. Please check back shortly."
+msgstr "Este hotel não está aceitando reservas. Por favor, volte em breve."
+
+#: partials/propertydetails.php
+msgid "We&#96;re sorry but there are no available rooms for your selected dates -- please modify your dates above to search again. We also encourage you to contact the hotel for more information at"
+msgstr "We & # 96; re desculpe, mas não existem quartos disponíveis para as datas selecionadas - por favor, modificar as datas acima para pesquisar novamente. Também sugerimos entrar em contato com o hotel para mais informações em"
+
+#: partials/propertydetails.php
+msgid "We&#96;re sorry but we could not accomodate your request. Please change your selected dates or choose a fewer number of rooms. We also encourage you to contact the hotel for more information at"
+msgstr "We & # 96; re desculpe, mas nós não poderia acomodar o seu pedido. Por favor, altere as datas selecionadas ou escolher um menor número de quartos. Também sugerimos entrar em contato com o hotel para mais informações em"
+
+#: partials/propertydetails.php
+msgid "No Rooms added to cart."
+msgstr "Não há quartos adicionados ao carrinho."
+
+#: public/partials/roomavailable.php:603
+msgid "Yes"
+msgstr "Sim"
+
+#: public/partials/roomavailable.php:607
+msgid "No"
+msgstr "Não"
+
+#: public/partials/roomavailable.php:607
+msgid "Move the mouse over the price for inclusions, occupancy and minimum stay"
+msgstr "Mova o rato sobre o preço para inclusões, ocupação e estadia mínima"

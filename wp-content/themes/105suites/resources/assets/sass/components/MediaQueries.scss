@@ -1,0 +1,153 @@
+.mobile-only {
+	display: none;
+}
+
+@media ( max-width: 414px )
+{
+	.Card {
+		justify-content: flex-end !important;
+	}
+
+	.Suites__flexslider {
+		.flex-control-nav {
+		    bottom: -50px;
+		}
+	}
+
+	.side-header-wrapper {
+	    display: flex;
+	    flex-direction: column-reverse;
+	    align-items: center;
+	    justify-content: center;
+	}
+
+	.fusion-main-menu-container {
+	    width: 100%;
+	    margin-bottom: 30px;
+
+	    display: flex;
+	    flex-direction: column;
+	    align-items: center;
+	    justify-content: center;	    
+	}
+
+	nav.fusion-mobile-nav-holder {
+		width: 100%;
+	}
+
+	.TopMenu__title {
+		display: none;
+	}
+
+	.side-header-book-now {
+		display: none;
+	}
+	
+	.Suite__slider--content {
+		padding: 30px 0px;
+	}
+
+	#side-header {
+		padding: 10px !important;
+	}
+
+	.Suite__slider {
+		h1 {
+			font-size: 25px;
+		    line-height: 40px;
+		    margin-bottom: 20px;
+		    span {
+		    	font-size: 40px;
+		    }	
+		}
+		p {
+			display: none;
+		}
+		form {
+			display: none;
+		}
+	}
+
+	// Visit our restaurant button
+	.OurRestaurant__btn {
+		width: 90% !important;
+	}
+
+	// Testimonials
+
+	.review {
+		flex-direction: column;
+		align-items: center !important;
+	}
+
+	.testimonial-thumbnail {
+		margin-right: 0px !important;
+		margin-bottom: 20px !important;
+	}
+
+	.review__information {
+		align-items: center;
+		justify-content: center;
+		q {
+			text-align: center !important
+		}
+	}
+
+	.Languages {
+	    width: 100%;
+	    top: -40px;
+	    right: 0 !important;
+	    
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;	
+	    ul {
+	    	padding-left: 0;
+	    }	
+	}
+
+	.fusion-footer {
+	    margin-bottom: 50px;
+	}
+
+	#searchRoomForm {
+		.omgrid_4 {
+			width: 100% !important;
+		}
+	}
+
+	.Restaurant__button i {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.mobile-only {
+		display: block;
+	}
+
+	.Mobile__Booknow {
+		height: 50px;
+		width: 100%;
+		z-index: 999;
+		bottom: 0;
+		margin-bottom: 0;
+		position: fixed;
+		background: #bf9b61;
+
+		display: flex;
+		align-items: center;
+		justify-content: center;		
+		a {
+			width: 100%;
+			color: #fff;
+			display: block;
+			font-weight: bold;
+			text-align: center;
+			text-transform: uppercase;
+			&:hover {
+				color: #fff;
+			}			
+		}
+	}	
+}
